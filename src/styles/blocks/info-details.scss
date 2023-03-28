@@ -1,9 +1,0 @@
-.info-details {
-  &__details {
-    margin-bottom: 40px;
-
-    @include onDesktop {
-      margin-bottom: 48px;
-    }
-  }
-}
